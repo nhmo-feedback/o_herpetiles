@@ -1,0 +1,182 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 869
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 31
+	Country: United States ; Times: 89
+	Country: Germany ; Times: 5
+	Country: Norway ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 15
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 29
+	Date: 2018-05-24 ; Times: 24
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-14 ; Times: 10
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 26
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "10048" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:NHMO" ; Times: 3
+	Query: "philothamnus natalensis" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:grayii genus:Strongylopus institutioncode:NHMO" ; Times: 3
+	Query: "morelia amethistina" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "specificepithet:chinensis genus:Hyla institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:temporaria genus:Rana institutioncode:NHMO" ; Times: 3
+	Query: "genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:paradoxa genus:Pseudis institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:NHMO" ; Times: 3
+	Query: "Andrias japonicus" ; Times: 2
+	Query: "genus:dendroaspis country:&#34;tanzania&#34;" ; Times: 6
+	Query: "Micrurus tschudii" ; Times: 1
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:NHMO" ; Times: 3
+	Query: "Chthonerpeton indistinctum" ; Times: 1
+	Query: "specificepithet:latopalmatus genus:Staurois institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:madagascariensis genus:Scaphiophryne institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:mossambicus genus:Breviceps institutioncode:NHMO" ; Times: 3
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "Psammophis leithii" ; Times: 1
+	Query: "coniophanes quinquevittatus" ; Times: 1
+	Query: "genus:Glyptemys stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "country:&#34;Switzerland&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Euphlyctis hexadactylus" ; Times: 2
+	Query: "genus:Chthonerpeton specificepithet:indistinctum" ; Times: 2
+	Query: "genus:Bombina specificepithet:pachypus" ; Times: 1
+	Query: "specificepithet:multistriata genus:Fejervarya institutioncode:NHMO" ; Times: 3
+	Query: "psammophis elegans" ; Times: 10
+	Query: "mabuya carinata" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:polylepis genus:dendroaspis country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Ichthyophis glutinosus" ; Times: 2
+	Query: "country:&#34;Pakistan&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Speleomantes italicus" ; Times: 1
+	Query: "boophis microtympanum" ; Times: 1
+	Query: "specificepithet:dubius genus:geophis" ; Times: 2
+	Query: "philothamnus dorsalis" ; Times: 4
+	Query: "Geophis dubius" ; Times: 1
+	Query: "country:&#34;Cameroon&#34; institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:salmini genus:Limnodynastes institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:NHMO" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:NHMO" ; Times: 3
+	Query: "Scaphiophryne madagascariensis" ; Times: 1
+	Query: "genus:cylindrophis country:&#34;india&#34;" ; Times: 3
+	Query: "mesalina rubropunctata" ; Times: 2
+	Query: "Fejervarya multistriata" ; Times: 3
+	Query: "specificepithet:japonica genus:Rana institutioncode:NHMO" ; Times: 3
+	Query: "Ebenavia inunguis" ; Times: 2
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "dispholidus" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1178 download events in this period)
+Total number of records downloaded: 120
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-18 ; Times: 6
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "genus:Oscaecilia" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Chioglossa lusitanica" ; Times: 1
+	Query: "Oscaecilia" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Speleomantes italicus" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Geophis dubius" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
