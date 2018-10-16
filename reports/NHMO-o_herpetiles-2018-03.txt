@@ -1,0 +1,184 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 382
+Number of records retrieved in searches: 1302
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 3
+	Country: Italy ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 359
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-06 ; Times: 21
+	Date: 2018-03-01 ; Times: 10
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-23 ; Times: 24
+	Date: 2018-03-20 ; Times: 15
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-02 ; Times: 23
+	Date: 2018-03-03 ; Times: 18
+	Date: 2018-03-04 ; Times: 9
+	Date: 2018-03-05 ; Times: 16
+	Date: 2018-03-28 ; Times: 38
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-26 ; Times: 89
+	Date: 2018-03-27 ; Times: 49
+	Date: 2018-03-13 ; Times: 4
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-21 ; Times: 53
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Erythrolamprus" ; Times: 3
+	Query: "genus:Sibynophis specificepithet:collaris" ; Times: 5
+	Query: "genus:Litoria specificepithet:aurea" ; Times: 2
+	Query: "genus:Ramphotyphlops specificepithet:polygrammicus" ; Times: 4
+	Query: "specificepithet:triangulum genus:Lampropeltis country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:cervinus genus:Siphlophis country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "genus:Dendroaspis specificepithet:angusticeps" ; Times: 5
+	Query: "genus:Liophidium specificepithet:rhodogaster" ; Times: 5
+	Query: "genus:Dendroaspis specificepithet:jamesoni" ; Times: 5
+	Query: "genus:Siphlophis specificepithet:cervinus" ; Times: 4
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 2
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "genus:Draco specificepithet:maculatus" ; Times: 5
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 2
+	Query: "Vipera berus" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "genus:Bombina specificepithet:pachypus" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 5
+	Query: "specificepithet:pullatus genus:Spilotes country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Furcifer specificepithet:bifidus" ; Times: 5
+	Query: "genus:Dendrelaphis specificepithet:caudolineatus" ; Times: 2
+	Query: "genus:Erpeton specificepithet:tentaculatum" ; Times: 5
+	Query: "genus:Bradypodion specificepithet:pumilum" ; Times: 5
+	Query: "genus:Aparallactus  specificepithet:capensis " ; Times: 3
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 2
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 5
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 5
+	Query: "genus:Philodryas specificepithet:viridissimus" ; Times: 6
+	Query: "genus:Neobatrachus specificepithet:pictus" ; Times: 2
+	Query: "genus:Enhydris specificepithet:plumbea" ; Times: 2
+	Query: "genus:Lamprophis specificepithet:fuliginosus" ; Times: 2
+	Query: "specificepithet:fulgidus genus:Oxybelis country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Ebenavia specificepithet:inunguis" ; Times: 4
+	Query: "genus:Prosymna specificepithet:ambigua" ; Times: 7
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 5
+	Query: "genus:Atractaspis specificepithet:bibronii" ; Times: 5
+	Query: "genus:Microlophus specificepithet:peruvianus" ; Times: 2
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 5
+	Query: "genus:Liophis specificepithet:epinephelus" ; Times: 3
+	Query: "genus:Dipsas specificepithet:catesbyi" ; Times: 2
+	Query: "genus:Chironius specificepithet:carinatus" ; Times: 5
+	Query: "genus:Geckolepis specificepithet:maculata" ; Times: 9
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 5
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "specificepithet:delicatissima family:Iguanidae" ; Times: 1
+	Query: "genus:Dromicodryas specificepithet:quadrilineatus" ; Times: 5
+	Query: "helminthophis flavoterminatus" ; Times: 1
+	Query: "genus:Dasypeltis specificepithet:scabra" ; Times: 5
+	Query: "nactus new britain" ; Times: 1
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 2
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 5
+	Query: "Lygosoma punctata" ; Times: 1
+	Query: "genus:Hyla specificepithet:boans" ; Times: 3
+	Query: "genus:Chamaesaura" ; Times: 3
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 2
+	Query: "genus:Pseudoboa specificepithet:coronata" ; Times: 4
+	Query: "genus:Nephrurus specificepithet:asper" ; Times: 5
+	Query: "genus:Teius specificepithet:teyou" ; Times: 2
+	Query: "genus:Anilius specificepithet:scytale" ; Times: 5
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 6
+	Query: "genus:Aparallactus specificepithet:capensis " ; Times: 2
+	Query: "genus:Varanus specificepithet:varius" ; Times: 5
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Phelsuma specificepithet:laticauda" ; Times: 2
+	Query: "genus:Candoia specificepithet:carinata" ; Times: 2
+	Query: "Lamprophis aurora" ; Times: 1
+	Query: "Lund Museum" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 6
+	Query: "genus:Egernia specificepithet:cunninghami" ; Times: 2
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 5
+	Query: "vipera ursinii" ; Times: 11
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 2
+	Query: "genus:Takydromus specificepithet:sexlineatus" ; Times: 5
+	Query: "genus:Bradypodion specificepithet:ventrale" ; Times: 5
+	Query: "genus:Elaphe specificepithet:radiata" ; Times: 5
+	Query: "genus:Sitana specificepithet:ponticeriana" ; Times: 5
+	Query: "specificepithet:epinephelus genus:Liophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Conopsis specificepithet:nasus" ; Times: 2
+	Query: "specificepithet:cervinus genus:Siphlophis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 5
+	Query: "genus:Oligodon specificepithet:octolineatus" ; Times: 5
+	Query: "genus:Pelomedusa specificepithet:subrufa" ; Times: 2
+	Query: "genus:Cacosternum specificepithet:boettgeri" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "genus:Xenodon specificepithet:neuwiedii" ; Times: 5
+	Query: "specificepithet:delicatissima genus:Iguana" ; Times: 8
+	Query: "genus:Bufo specificepithet:mauritanicus" ; Times: 6
+	Query: "genus:Acrochordus specificepithet:granulatus" ; Times: 2
+	Query: "coniophanes quinquevittatus" ; Times: 1
+	Query: "genus:Bothrops specificepithet:atrox" ; Times: 2
+	Query: "genus:Brookesia specificepithet:superciliaris" ; Times: 5
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "hypsilurus new britain" ; Times: 2
+	Query: "specificepithet:nebulatus genus:Sibon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Cordylus specificepithet:cordylus" ; Times: 5
+	Query: "genus:Leptobrachium specificepithet:hasseltii" ; Times: 5
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 5
+	Query: "genus:Ichthyophis specificepithet:glutinosus" ; Times: 5
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 5
+	Query: "genus:Afrogecko specificepithet:porphyreus" ; Times: 5
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 6
+	Query: "genus:Homoroselaps specificepithet:lacteus" ; Times: 5
+	Query: "specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:africanus" ; Times: 5
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 5
+	Query: "genus:Psammodynastes specificepithet:pulverulentus" ; Times: 2
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "genus:Bufo specificepithet:stomaticus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1284 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gekko gecko" ; Times: 1
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+
+
+End of report.
