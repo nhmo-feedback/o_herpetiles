@@ -1,0 +1,105 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 51
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 9
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 7
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-14 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-19 ; Times: 3
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-21 ; Times: 5
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atrox genus:bothrops country:&#34;mexico&#34;" ; Times: 1
+	Query: "Tropidonophis picturatus" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 4
+	Query: "ptychozoon kuhli" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 8
+	Query: "amethistina" ; Times: 2
+	Query: "Rhabdophis Java" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "Fejervarya multistriata" ; Times: 2
+	Query: "Glyptemys muhlenbergii Pennsylvania" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "mesalina rubropunctata" ; Times: 4
+	Query: "specificepithet:tschudii genus:micrurus" ; Times: 1
+	Query: "specificepithet:corallinus genus:micrurus" ; Times: 2
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Rhabdophis chrysargos Indonesia" ; Times: 1
+	Query: "liopeltis calamaria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1359 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amethistina" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Fejervarya multistriata" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "family:Ambystomatidae locality:Mexico" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Rana palustris" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+
+
+End of report.
