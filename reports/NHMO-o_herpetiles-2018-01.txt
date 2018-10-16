@@ -1,0 +1,109 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 126
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 3
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 9
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-17 ; Times: 11
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "Calotes Java" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Litoria dahlii hassex:1" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Coniophanes bipunctatus" ; Times: 2
+	Query: "Sibon nebulatus" ; Times: 2
+	Query: "pareas" ; Times: 2
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "ebenavia" ; Times: 3
+	Query: "Boa constrictor" ; Times: 1
+	Query: "sceloporus undulatus alabama" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "genus:Pelamis continent:Asia" ; Times: 1
+	Query: "Batrachoceps attenuatus" ; Times: 1
+	Query: "eryx johnii" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Anguis" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 3
+	Query: "philautus glandulosus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1398 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "oscaecilia" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "genus:Tantilla year &lt;= 1920" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+
+
+End of report.
