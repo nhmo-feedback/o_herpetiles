@@ -1,0 +1,96 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 139
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 3
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "oligodon everetti" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 1
+	Query: "Ptychozoon kuhli" ; Times: 3
+	Query: "4511 Micrurus" ; Times: 1
+	Query: "Argyrogena" ; Times: 2
+	Query: "specificepithet:Mipartitus genus:Micrurus country:&#34;Panama&#34;" ; Times: 3
+	Query: "vipera berus" ; Times: 1
+	Query: "Astrotia" ; Times: 1
+	Query: "elaphe situla" ; Times: 1
+	Query: "genus:siphlophis" ; Times: 1
+	Query: "oligodon bitorquatus" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Gongylosoma" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 977 download events in this period)
+Total number of records downloaded: 183
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kinixys belliana" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 2
+	Query: "oxyrhopus" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "specificepithet:ignescens genus:Atelopus" ; Times: 2
+	Query: "dipsadoboa" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+
+
+End of report.
