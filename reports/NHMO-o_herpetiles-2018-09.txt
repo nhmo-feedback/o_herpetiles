@@ -1,0 +1,112 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 340
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 5
+	Date: 2018-09-20 ; Times: 7
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Coniophanes quinquevittatus" ; Times: 1
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 5
+	Query: "gbifdatasetid:0d8f74b3-42b9-488f-9ec1-1faefaff1d1c" ; Times: 1
+	Query: "rhabdophis conspicillatus" ; Times: 1
+	Query: "siphlophis" ; Times: 1
+	Query: "kinixys erosa congo" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 4
+	Query: "vntype:specimen specificepithet:anomalus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Geodipsas" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;Thailand&#34;" ; Times: 1
+	Query: "Vipera berus" ; Times: 2
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:NHMO" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "bothrops belize" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "amyda cartilaginea" ; Times: 1
+	Query: "Lycodon Myanmar" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 2
+	Query: "nactus new britain" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 846 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 9
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coniophanes quinquevittatus" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Ecuador&#34; year &gt;= 1840 year &lt;= 1970" ; Times: 1
+	Query: "Mabuya mabouya" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Norops sagrei" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Phrynosoma douglassi" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+
+
+End of report.
