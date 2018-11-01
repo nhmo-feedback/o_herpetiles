@@ -1,0 +1,152 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 345
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Israel ; Times: 1
+	Country: Zambia ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 12
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 7
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-23 ; Times: 10
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 9
+	Query: "Furcifer pardalis" ; Times: 3
+	Query: "Naja haje" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Norops auratus" ; Times: 1
+	Query: "furcifer pardalis" ; Times: 1
+	Query: "bungarus myanmar" ; Times: 1
+	Query: "Egernia kintorei" ; Times: 1
+	Query: "ZMO" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 4
+	Query: "Python sebae" ; Times: 3
+	Query: "Acontias plumbeus" ; Times: 2
+	Query: "Xenochrophis trianguligerus" ; Times: 1
+	Query: "ptyas carinatus" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "opheodrys tennessee" ; Times: 1
+	Query: "ZMO K 2517" ; Times: 1
+	Query: "iguana delicatissima" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 1
+	Query: "genus:Rana specificepithet:temporaria" ; Times: 1
+	Query: "specificepithet:muta genus:Lachesis" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+	Query: "vipera" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1300 download events in this period)
+Total number of records downloaded: 263
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 6
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 7
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mabuya agilis" ; Times: 1
+	Query: "genus:Crotaphopeltis" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus" ; Times: 2
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops" ; Times: 1
+	Query: "Philautus" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coniophanes bipunctatus" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 2
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "specificepithet:hoplogaster genus:Philothamnus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "amphisbaena fuliginosa" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Norops auratus" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "genus:Lycodonomorphus" ; Times: 1
+	Query: "heterodon platirhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Coniophanes fissidens" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "calumma" ; Times: 1
+	Query: "specificepithet:muta genus:Lachesis" ; Times: 3
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "genus: Natriciteres" ; Times: 1
+	Query: "Micrurus Mexico" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
