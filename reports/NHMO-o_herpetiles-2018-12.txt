@@ -1,0 +1,109 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Netherlands ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: China ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 7
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 3
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "naja naja india" ; Times: 2
+	Query: "Xenodon rhabdocephalus" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:wahlbergii" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Rhacophorus pardalis" ; Times: 1
+	Query: "Gallotia galloti" ; Times: 6
+	Query: "Hypsilurus godeffroyi" ; Times: 3
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "bothrops lanceolatus" ; Times: 2
+	Query: "salamandrina" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "ptyas mucosus india" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Tropidonophis picturatus" ; Times: 1
+	Query: "Takydromus sexlineatus country:&#34;china&#34;" ; Times: 1
+	Query: "trimeresurus gramineus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 809 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Takydromus sexlineatus country:&#34;china&#34;" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+
+
+End of report.
