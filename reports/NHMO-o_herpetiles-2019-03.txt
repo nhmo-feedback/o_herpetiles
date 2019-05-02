@@ -1,0 +1,321 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 240
+Number of records retrieved in searches: 1285
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 15
+	Country: Netherlands ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Oman ; Times: 1
+	Country: Poland ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 207
+	Country: Sweden ; Times: 2
+	Country: Latvia ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-19 ; Times: 7
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 65
+	Date: 2019-03-15 ; Times: 140
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "K Adler" ; Times: 2
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Philothamnus dorsalis" ; Times: 1
+	Query: "Lycodon aulicus" ; Times: 1
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Amplorhinus multimaculatus" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "Demansia olivacea" ; Times: 1
+	Query: "Coniophanes bipunctatus" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "Macropisthodon flaviceps" ; Times: 1
+	Query: "Tropidolaemus wagleri" ; Times: 1
+	Query: "Cylindrophis ruffus" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Micrurus tschudii" ; Times: 1
+	Query: "Elaphe carinata" ; Times: 1
+	Query: "Dipsadoboa flavida" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "Rhamphiophis oxyrhynchus" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Oligodon bitorquatus" ; Times: 1
+	Query: "Philodryas olfersii" ; Times: 1
+	Query: "genus:Chioglossa" ; Times: 1
+	Query: "Dasypeltis atra" ; Times: 1
+	Query: "Boiga cynodon" ; Times: 1
+	Query: "Calloselasma rhodostoma" ; Times: 1
+	Query: "Polemon collaris" ; Times: 1
+	Query: "genus:Rana specificepithet:arvalis" ; Times: 2
+	Query: "genus:Salamandrina" ; Times: 1
+	Query: "Ahaetulla mycterizans" ; Times: 1
+	Query: "Dromicodryas quadrilineatus" ; Times: 1
+	Query: "Xenodon neuwiedii" ; Times: 1
+	Query: "Tachymenis peruviana" ; Times: 1
+	Query: "Thelotornis capensis" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Mastigodryas boddaerti" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 1
+	Query: "Tropidonophis picturatus" ; Times: 1
+	Query: "Philodryas nattereri" ; Times: 1
+	Query: "Gonyosoma oxycephalum" ; Times: 1
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Hemachatus haemachatus" ; Times: 1
+	Query: "Liopholidophis sexlineatus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Elaphe quadrivirgata" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Psammophis phillipsi" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Alsophis antillensis" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 1
+	Query: "Erpeton tentaculatum" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Aspidites melanocephalus" ; Times: 1
+	Query: "Fordonia leucobalia" ; Times: 1
+	Query: "Psammophis condanarus" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 1
+	Query: "Chrysopelea ornata" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+	Query: "Hoplocephalus bitorquatus" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Psammophylax rhombeatus" ; Times: 1
+	Query: "Amphiesma stolatum" ; Times: 1
+	Query: "Argyrogena fasciolata" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 1
+	Query: "Oligodon octolineatus" ; Times: 1
+	Query: "Aspidura trachyprocta" ; Times: 1
+	Query: "Gongylosoma baliodeirus" ; Times: 1
+	Query: "Eirenis collaris" ; Times: 1
+	Query: "Gonyosoma" ; Times: 1
+	Query: "Dendrelaphis calligastra" ; Times: 1
+	Query: "Helicops leopardinus" ; Times: 1
+	Query: "Ninia atrata" ; Times: 1
+	Query: "Leptotyphlops nigricans" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Liophidium rhodogaster" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "Madagascarophis colubrinus" ; Times: 1
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Geophis dubius" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Uromacer frenatus" ; Times: 1
+	Query: "Telescopus semiannulatus" ; Times: 1
+	Query: "Boiga dendrophila Thailand" ; Times: 1
+	Query: "Psammophis brevirostris" ; Times: 1
+	Query: "Hypsirhynchus ferox" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Bungarus fasciatus" ; Times: 1
+	Query: "Oxyrhopus rhombifer" ; Times: 1
+	Query: "Lycophidion capense" ; Times: 1
+	Query: "Lygosoma punctata" ; Times: 1
+	Query: "Thelotornis mossambicanus" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "Calamaria sumatrana" ; Times: 1
+	Query: "Natriciteres olivacea" ; Times: 1
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 2
+	Query: "Aspidura brachyorrhos" ; Times: 1
+	Query: "vntype:specimen specificepithet:calamaria genus:Liopeltis" ; Times: 1
+	Query: "Xenochrophis trianguligerus" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 5
+	Query: "Boiga nigriceps" ; Times: 1
+	Query: "Coniophanes quinquevittatus" ; Times: 1
+	Query: "Psammodynastes pictus" ; Times: 1
+	Query: "Rhabdophis subminiatus" ; Times: 1
+	Query: "macropisthodon rhodomelas" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "chrysopelea pelias" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Oligodon taeniatus" ; Times: 1
+	Query: "Natriciteres fuliginoides" ; Times: 1
+	Query: "Macropisthodon rhodomelas" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 1
+	Query: "Duberria lutrix" ; Times: 1
+	Query: "Philothamnus heterodermus" ; Times: 1
+	Query: "Rana arvalis mappable:1" ; Times: 1
+	Query: "Dromicodryas bernieri" ; Times: 1
+	Query: "Sibynophis subpunctatus" ; Times: 1
+	Query: "Liopeltis calamaria" ; Times: 1
+	Query: "Dryocalamus davisonii" ; Times: 1
+	Query: "Oligodon everetti" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Pseudoeryx plicatilis" ; Times: 1
+	Query: "Ogmodon vitianus" ; Times: 1
+	Query: "Rhabdophis chrysargos" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Lamprophis aurora" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Philothamnus natalensis" ; Times: 1
+	Query: "Dasypeltis scabra" ; Times: 1
+	Query: "Boiga jaspidea" ; Times: 1
+	Query: "Psammophis subtaeniatus" ; Times: 1
+	Query: "Dasypeltis medici" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "Sinonatrix annularis" ; Times: 1
+	Query: "Philodryas chamissonis" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "Philothamnus semivariegatus" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 1
+	Query: "Xenocalamus mechowii" ; Times: 1
+	Query: "Montatheris hindii" ; Times: 1
+	Query: "Langaha madagascariensis" ; Times: 1
+	Query: "Psammophis crucifer" ; Times: 1
+	Query: "Typhlops lumbricalis" ; Times: 1
+	Query: "Chrysopelea pelias" ; Times: 1
+	Query: "Rhabdophis conspicillatus" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "Dendroaspis jamesoni" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "Chironius carinatus" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "Psammophis leithii" ; Times: 1
+	Query: "Triturus cristatus mappable:1" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Bitia hydroides" ; Times: 1
+	Query: "Conopsis nasus" ; Times: 1
+	Query: "Vipera berus" ; Times: 3
+	Query: "Helicops carinicaudus" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "Dendrelaphis formosus" ; Times: 1
+	Query: "Mimophis mahfalensis" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "Cylindrophis maculatus" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Thrasops flavigularis" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "Lycodon subcinctus" ; Times: 1
+	Query: "Atractaspis bibronii" ; Times: 1
+	Query: "Sibynophis collaris" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "acontias plumbeus" ; Times: 1
+	Query: "Homalopsis buccata" ; Times: 1
+	Query: "Psammophis elegans" ; Times: 1
+	Query: "Bothrophthalmus lineatus" ; Times: 1
+	Query: "Demansia reticulata" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "genus:Epicrates country:&#34;Panama&#34;" ; Times: 1
+	Query: "Oxyuranus scutellatus" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Aparallactus werneri" ; Times: 1
+	Query: "Oligodon cinereus" ; Times: 1
+	Query: "Lycodonomorphus rufulus" ; Times: 1
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "Oligodon purpurascens" ; Times: 1
+	Query: "family:Gerrhosauridae country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Candoia aspera" ; Times: 1
+	Query: "genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudoboa coronata" ; Times: 1
+	Query: "Philothamnus hoplogaster" ; Times: 1
+	Query: "Rana temporaria mappable:1" ; Times: 1
+	Query: "Oligodon signatus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 1
+	Query: "Ptyas korros" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Trimeresurus gramineus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1281 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: India ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-08 ; Times: 8
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Erythrolamprus" ; Times: 1
+	Query: "Teius teyou" ; Times: 1
+	Query: "genus:Ophiophagus" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 1
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Teius" ; Times: 2
+	Query: "elapidae Mexico" ; Times: 1
+	Query: "specificepithet:marmorata genus:emys" ; Times: 1
+	Query: "candoia aspera" ; Times: 1
+	Query: "lycophidion" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:Chioglossa" ; Times: 1
+
+
+End of report.
