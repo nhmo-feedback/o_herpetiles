@@ -1,0 +1,112 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 132
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-27 ; Times: 3
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 9
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dermochelyidae" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "Litoria freycineti" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Physalaemus gracilis" ; Times: 1
+	Query: "Xenochrophis piscator" ; Times: 1
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:NHMO" ; Times: 6
+	Query: "genus:Heterodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Litoria gracilenta" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "liopeltis calamaria" ; Times: 1
+	Query: "ablepharus deserti" ; Times: 1
+	Query: "genus:Rana specificepithet:arvalis" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "Rana aurora" ; Times: 3
+	Query: "Oscaecilia ochrocephala" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:NHMO" ; Times: 6
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "Calamaria sumatra" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Disteira major" ; Times: 1
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:NHMO" ; Times: 6
+	Query: "psammophis condanarus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1034 download events in this period)
+Total number of records downloaded: 133
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Disteira major" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "Hydrophis brookii" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Hydrophis elegans" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Hydrophis fasciatus" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+
+
+End of report.
