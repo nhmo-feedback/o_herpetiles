@@ -1,0 +1,104 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 180
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 5
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-22 ; Times: 4
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 10
+	Date: 2019-09-04 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "arvalis Rana" ; Times: 1
+	Query: "genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "ZMO Herp K 1866" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "Micrurus tschudii" ; Times: 1
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:NHMO" ; Times: 4
+	Query: "furcifer pardalis" ; Times: 1
+	Query: "Hydrophis obscurus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:NHMO" ; Times: 3
+	Query: "rana arvalis" ; Times: 1
+	Query: "Acontias plumbeus" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "bradypodion" ; Times: 2
+	Query: "Anilius scytale" ; Times: 2
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:NHMO" ; Times: 4
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:graeca genus:Rana" ; Times: 1
+	Query: "Bothrophthalmus" ; Times: 6
+	Query: "anilius scytale" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1073 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 6
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Hydrophis obscurus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+
+
+End of report.
