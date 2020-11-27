@@ -1,0 +1,145 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 2599
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United Kingdom ; Times: 31
+	Country: Australia ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 11
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 22
+	Date: 2020-04-05 ; Times: 4
+	Date: 2020-04-13 ; Times: 11
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 7
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-23 ; Times: 6
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 8
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leiolepis belliana" ; Times: 1
+	Query: "gbifdatasetid:0d8f74b3-42b9-488f-9ec1-1faefaff1d1c" ; Times: 11
+	Query: "Afrixalus fornasini" ; Times: 6
+	Query: "family:Bufonidae institutioncode:NHMO" ; Times: 2
+	Query: "specificepithet:cenchria genus:Epicrates country:&#34;Panama&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "recordedby:Amundsen" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Chthonerpeton indistinctum" ; Times: 3
+	Query: "genus:oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "B. marmoratus" ; Times: 5
+	Query: "genus:Carphophis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Rana temporaria" ; Times: 8
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 7
+	Query: "genus:Hydrophis country:&#34;Philippines&#34; institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "python reticulatus" ; Times: 5
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 2
+	Query: "genus:enhydris country:&#34;indonesia&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "python institutioncode:NHMO" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "genus:Rana specificepithet:temporaria" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 2
+	Query: "heterodon stateprovince:&#34;pennsylvania&#34;" ; Times: 6
+	Query: "bitia hydroides singapore" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1171 download events in this period)
+Total number of records downloaded: 3162
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "eretmochelys" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Sinonatrix annularis" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "institutioncode:NHMO" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "Pachydactylus maculatus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 2
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 1
+
+
+End of report.
