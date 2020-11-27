@@ -1,0 +1,210 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 546
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 109
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: China ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-22 ; Times: 11
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-28 ; Times: 11
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-23 ; Times: 72
+
+List of queries that retrieved data from the resource: 
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "specificepithet:colletti genus:Polypedates" ; Times: 1
+	Query: "specificepithet:marsupiata genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:dahlii genus:Litoria" ; Times: 1
+	Query: "specificepithet:esculenta genus:Rana" ; Times: 1
+	Query: "calamita Bufo" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:bennettii genus:Notaden" ; Times: 1
+	Query: "specificepithet:americanus genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:chinensis genus:Hyla" ; Times: 1
+	Query: "specificepithet:variegata genus:Bombina" ; Times: 1
+	Query: "specificepithet:rugosa genus:Rana" ; Times: 1
+	Query: "acrochordus granulatus" ; Times: 1
+	Query: "specificepithet:latopalmatus genus:Staurois" ; Times: 1
+	Query: "specificepithet:crucifer genus:Bufo" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NHMO" ; Times: 4
+	Query: "specificepithet:biporcatus genus:Bufo" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 1
+	Query: "specificepithet:carinatus genus:ptyas" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo" ; Times: 1
+	Query: "specificepithet:mauritanicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:mossambicus genus:Breviceps" ; Times: 2
+	Query: "specificepithet:grayii genus:Strongylopus" ; Times: 1
+	Query: "specificepithet:pictus genus:Neobatrachus" ; Times: 1
+	Query: "specificepithet:paradoxa genus:Pseudis" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "specificepithet:maculatus genus:Polypedates" ; Times: 1
+	Query: "specificepithet:biligonigerus genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:tephraeomystax genus:Boophis" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus" ; Times: 1
+	Query: "specificepithet:aurea genus:Litoria" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:macrodon genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:bombina genus:Bombina" ; Times: 1
+	Query: "temporaria Rana" ; Times: 4
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "specificepithet:microtympanum genus:Boophis" ; Times: 1
+	Query: "specificepithet:japonica genus:Hyla" ; Times: 1
+	Query: "specificepithet:pardalis genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:natalensis genus:Tomopterna" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "specificepithet:maculata genus:Kassina" ; Times: 1
+	Query: "specificepithet:graeca genus:Rana" ; Times: 1
+	Query: "specificepithet:mystacinus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:NHMO" ; Times: 4
+	Query: "Ramphotyphlops braminus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:angusticeps genus:Bufo" ; Times: 1
+	Query: "specificepithet:gracilis genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NHMO" ; Times: 4
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:NHMO" ; Times: 4
+	Query: "specificepithet:muelleri genus:Xenopus" ; Times: 1
+	Query: "specificepithet:baleata genus:Kaloula" ; Times: 1
+	Query: "specificepithet:goudotii genus:Boophis" ; Times: 1
+	Query: "specificepithet:hexadactylus genus:Euphlyctis" ; Times: 1
+	Query: "specificepithet:macrodactyla genus:Rana" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Scaphiophryne" ; Times: 1
+	Query: "specificepithet:glandulosus genus:Philautus" ; Times: 1
+	Query: "Ablepharus deserti" ; Times: 1
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:NHMO" ; Times: 5
+	Query: "specificepithet:boettgeri genus:Cacosternum" ; Times: 1
+	Query: "specificepithet:hasseltii genus:Leptobrachium" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:NHMO" ; Times: 4
+	Query: "specificepithet:dalmatina genus:Rana" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:arvalis genus:Rana" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:salmini genus:Limnodynastes" ; Times: 1
+	Query: "Meroles knoxii" ; Times: 2
+	Query: "specificepithet:pulchra genus:Microhyla" ; Times: 1
+	Query: "specificepithet:macrocnemis genus:Rana" ; Times: 1
+	Query: "specificepithet:alboguttatus genus:Heterixalus" ; Times: 1
+	Query: "specificepithet:fornasini genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:stomaticus genus:Bufo" ; Times: 1
+	Query: "specificepithet:ulcerosus genus:Mantidactylus" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "specificepithet:freycineti genus:Litoria" ; Times: 1
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:gracilenta genus:Litoria" ; Times: 1
+	Query: "specificepithet:pachypus genus:Bombina" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana" ; Times: 1
+	Query: "elaphe dione" ; Times: 2
+	Query: "specificepithet:wahlbergii genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis" ; Times: 1
+	Query: "specificepithet:temporalis genus:Rana" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:NHMO" ; Times: 4
+	Query: "specificepithet:nasuta genus:Megophrys" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 2
+	Query: "specificepithet:latastei genus:Rana" ; Times: 1
+	Query: "specificepithet:stuhlmanni genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:betsileo genus:Mantella" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1584 download events in this period)
+Total number of records downloaded: 162
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 34
+	Country: China ; Times: 12
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 8
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-25 ; Times: 8
+	Date: 2020-01-24 ; Times: 16
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eremias velox" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Emoia cyanura" ; Times: 2
+	Query: "Takydromus sexlineatus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Sphaerodactylus elegans" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Ablepharus deserti" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eremias arguta" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Sphaerodactylus argus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Tropidonophis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Meroles knoxii" ; Times: 2
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Sphenomorphus maculatus" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+
+
+End of report.
