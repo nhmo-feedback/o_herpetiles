@@ -1,0 +1,68 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 163
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Sweden ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 2
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ptyas mucosus india" ; Times: 2
+	Query: "specificepithet:subcinctus country:&#34;indonesia&#34;" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rana temporaria" ; Times: 2
+	Query: "lycodon aulicus india" ; Times: 4
+	Query: "amphiesma stolatum india" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 474 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Emoia samoensis" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
