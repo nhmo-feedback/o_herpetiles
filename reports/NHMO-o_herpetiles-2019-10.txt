@@ -1,0 +1,128 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 172
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 5
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-23 ; Times: 5
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana japonica" ; Times: 1
+	Query: "specificepithet:ammodytes genus:Vipera country:&#34;Italy&#34;" ; Times: 1
+	Query: "Nephrurus asper" ; Times: 1
+	Query: "genus:Rana specificepithet:latastei" ; Times: 1
+	Query: "specificepithet:sinuatus genus:pelusios" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "Salamandrina" ; Times: 3
+	Query: "Tomodon ocellatus" ; Times: 4
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "specificepithet:coronata genus:tantilla stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "Notaden bennettii" ; Times: 1
+	Query: "ursinii" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis continent:europe" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 2
+	Query: "Tropidophis maculatus" ; Times: 1
+	Query: "Cordylus vittifer" ; Times: 4
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis country:&#34;italy&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "lycodon myanmar" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Bombina pachypus" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "vinciguerra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1308 download events in this period)
+Total number of records downloaded: 84
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 16
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-15 ; Times: 6
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sicula genus:podarcis continent:europe" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Bufonidae vntype:specimen" ; Times: 1
+	Query: "sphaerodactylus elegans" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "ameiva auberi" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "sphaerodactylus argus" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
