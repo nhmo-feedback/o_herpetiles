@@ -1,0 +1,117 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 13
+	Country: Germany ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Slovakia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-19 ; Times: 6
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-13 ; Times: 11
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "genus:Vipera country:&#34;India&#34;" ; Times: 9
+	Query: "genus:Tropidonophis institutioncode:NHMO" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 1
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hemachatus haemachatus" ; Times: 1
+	Query: "specificepithet:esculenta genus:rana" ; Times: 1
+	Query: "Hyla punctata" ; Times: 1
+	Query: "psammophylax rhombeatus" ; Times: 1
+	Query: "Anolis leachii" ; Times: 1
+	Query: "genus:Bombina specificepithet:pachypus" ; Times: 2
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "polygrammicus" ; Times: 1
+	Query: "Liopeltis calamaria" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 853 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 2
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton" ; Times: 1
+	Query: "Hyla punctata" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
