@@ -1,0 +1,90 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 170
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-27 ; Times: 9
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NHMO" ; Times: 2
+	Query: "genus:Occidozyga country:&#34;India&#34;" ; Times: 5
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NHMO" ; Times: 2
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:NHMO" ; Times: 2
+	Query: "Glyptemys muhlenbergii" ; Times: 3
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1800 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 7
+	Query: "condanarus" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:NHMO" ; Times: 2
+	Query: "Calumma gallus" ; Times: 3
+	Query: "11923" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 976 download events in this period)
+Total number of records downloaded: 152
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "tympanocryptis cephalus" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+
+
+End of report.
