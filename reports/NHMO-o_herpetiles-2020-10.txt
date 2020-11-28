@@ -1,0 +1,101 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 194
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-18 ; Times: 4
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:fordonia" ; Times: 2
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 4
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NHMO" ; Times: 1
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 2
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:NHMO" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "Crotaphopeltis hotamboeia" ; Times: 1
+	Query: "brazil bothrops atrox" ; Times: 2
+	Query: "genus:Rana specificepithet:latastei" ; Times: 1
+	Query: "Chamaesaura macrolepis" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:NHMO" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Chthonerpeton indistinctum" ; Times: 2
+	Query: "Rana temporaria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1521 download events in this period)
+Total number of records downloaded: 130
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Samoa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "hyla femoralis" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "Chironius" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+
+
+End of report.
