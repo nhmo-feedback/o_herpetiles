@@ -1,0 +1,113 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 56
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Oman ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 6
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mabuya carinata (India)" ; Times: 2
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "genus:charina stateprovince:&#34;california&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 3
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "specificepithet:douglassi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "Micrurus tschudii peru" ; Times: 2
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "specificepithet:vittifer genus:Cordylus" ; Times: 1
+	Query: "Rana temporalis" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "anilius" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "genus:Alligator stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Apalone spinifera wisconsin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 940 download events in this period)
+Total number of records downloaded: 1421
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Oman ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clelia clelia" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "mabuya carinata (India)" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Gastrotheca marsupiata" ; Times: 1
+	Query: "genus:notophthalmus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "opheodrys vernalis wisconsin" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "Chioglossa" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "hyla versicolor wisconsin" ; Times: 1
+
+
+End of report.
