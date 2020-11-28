@@ -1,0 +1,125 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 95
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-12 ; Times: 7
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-01 ; Times: 3
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 4
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-08 ; Times: 6
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 2
+	Query: "scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NHMO" ; Times: 1
+	Query: "Liopeltis calamaria" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 5
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:NHMO" ; Times: 5
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:NHMO" ; Times: 4
+	Query: "Acontias plumbeus" ; Times: 1
+	Query: "Chamaeleo chamaeleon spain" ; Times: 1
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:NHMO" ; Times: 4
+	Query: "micrurus mipartitus" ; Times: 4
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NHMO" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "geophis dubius" ; Times: 1
+	Query: "xenochrophis trianguligerus" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:NHMO" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 756 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhabdophis subminiatus" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "coronella girondica" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "coniophanes bipunctatus" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 2
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "geophis dubius" ; Times: 1
+	Query: "coniophanes fissidens" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "hynobiidae" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
