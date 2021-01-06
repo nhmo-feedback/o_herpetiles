@@ -1,0 +1,140 @@
+Report for Institution Code NHMO, Resource o_herpetiles
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 196
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Moldova ; Times: 1
+	Country: United States ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Mozambique ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-28 ; Times: 3
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Glyptemys" ; Times: 1
+	Query: "Rana esculenta" ; Times: 1
+	Query: "Xenopus muelleri" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "alligator nhmo" ; Times: 3
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+	Query: "Litoria gracilenta" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 705 download events in this period)
+Total number of records downloaded: 658
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 36
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 7
+	Date: 2020-12-23 ; Times: 35
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 21
+	Date: 2020-12-07 ; Times: 5
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Ctenophorus pictus" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "Oedura marmorata" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Lucasium damaeum" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Gehyra variegata" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Heteronotia binoei" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "Amphibolurus muricatus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Eremiascincus fasciolatus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Lialis burtonis" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "Egernia cunninghami" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Chalarodon madagascariensis" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Carlia fusca" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys year &lt;= 1961" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Viperidae" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Varanus gilleni" ; Times: 1
+	Query: "Christinus marmoratus" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
